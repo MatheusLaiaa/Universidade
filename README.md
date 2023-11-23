@@ -2,7 +2,7 @@
 
 ## Metodologia
 
-Nessa atividade tivemos o objetivo de produzir um sistema de banco de dados de uma universidade, através do MySql.
+Nessa atividade objetivo é de produzir um sistema de banco de dados de uma universidade, através do MySql.
 
 ### Crie um banco de dados para armazenar alunos e cursos de uma universidade;
 
