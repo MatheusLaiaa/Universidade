@@ -58,8 +58,14 @@ Nessa atividade objetivo é de produzir um sistema de banco de dados de uma univ
 
 ![image](https://github.com/MatheusLaiaa/Universidade/assets/144149403/d304f50d-11d3-490d-aa52-b4c191178d5e)
 
+### Modelo Lógico
+
+![image](https://github.com/MatheusLaiaa/Universidade/assets/144149403/d6be6ac3-a44d-4079-9f2a-44f282187eae)
 
 
+# NOME - RA - EMAIL
+
+Matheus Ferreira De Laia - 236012 - matheuslaia664@gmail.com
 
 
 
